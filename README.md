@@ -1,4 +1,4 @@
-# Algorithmen-und-Komplexitaet
+# Projektmanagement
 Zusammenfassung Projektmanagement Semester 2 
 
 Regeln und Design: @Flo<br>
